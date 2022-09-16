@@ -1,0 +1,24 @@
+{
+  "name": "@karukichi/eslint-config-frontent-js",
+  "version": "0.1.0",
+  "description": "ESLint config for JavaScript made by Karukichi Soejima.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yota-K/eslint-config-frontend-js.git"
+  },
+  "author": "Karukichi Soejima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yota-K/eslint-config-frontend-js/issues"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
