@@ -1,3 +1,5 @@
+![version](https://img.shields.io/badge/version-v0.1.0-success.svg)
+
 # eslint-config-frontend-js
 ESLint config for JavaScript made by Karukichi Soejima.
 
