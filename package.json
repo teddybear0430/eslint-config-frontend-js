@@ -1,5 +1,5 @@
 {
-  "name": "@karukichi/eslint-config-frontent-js",
+  "name": "@karukichi-soejima/eslint-config-frontend-js",
   "version": "0.1.0",
   "description": "ESLint config for JavaScript made by Karukichi Soejima.",
   "main": "index.js",
